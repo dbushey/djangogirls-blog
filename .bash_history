@@ -48,3 +48,13 @@ cd ~/dev/Axiologue/Forum
 git status
 sudo apt-get install -y git
 exit 
+python manage.py migrate
+python3 manage.py migrate
+runs
+cat .bash_aliases
+source .bash_aliases
+runs
+python3 manage.py createsuperuser
+python3 manage.py createsuperuser
+runs
+exit

@@ -72,7 +72,6 @@ target/
 #Ipython Notebook
 .ipynb_checkpoints
 
-
 ### Django ###
 *.log
 *.pot
@@ -81,5 +80,5 @@ __pycache__/
 local_settings.py
 db.sqlite3
 media
-axiologuedb
+axiolguedb
 .bash_history
