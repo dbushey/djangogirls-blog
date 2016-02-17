@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'blog.wsgi.application'
 DATABASES = {
    'default': {
        'ENGINE': 'django.db.backends.sqlite3',
-       'NAME': 'axiolguedb',
+       'NAME': os.path.join(BASE_DIR, 'axiologuedb'),
    }
 }
 
