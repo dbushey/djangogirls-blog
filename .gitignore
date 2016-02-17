@@ -80,5 +80,5 @@ __pycache__/
 local_settings.py
 db.sqlite3
 media
-axiolguedb
+axiologuedb
 .bash_history
