@@ -1,1 +1,1 @@
-{"virtualbox":{"/home/vagrant":{"guestpath":"/home/vagrant","hostpath":"/Users/daiane/dev/Axiologue/Forum","disabled":false}}}
+{"virtualbox":{"/home/vagrant":{"guestpath":"/home/vagrant","hostpath":"/Users/daianebushey/dev/Axiologue/Forum/djangogirls-blog","disabled":false,"__vagrantfile":true}}}

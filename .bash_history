@@ -58,3 +58,63 @@ python3 manage.py createsuperuser
 python3 manage.py createsuperuser
 runs
 exit
+vagrant ssh
+runs
+source .bash_aliases
+runs
+la
+ls
+ls -la
+vim .bash_aliases
+ls
+pwd
+vim .bash_aliases
+nano .bash_aliases
+vim .bash_aliases
+nano .bash_aliases
+nano .bash_aliases
+runs
+cd /vagrant/manage.py
+cd ~/vagrant/manage.py
+source .bash_aliases
+runs
+python3 manage.py migrate
+runs
+ls
+cd blog/urls.py
+cd blog
+ls
+cd ..
+cd blogapp
+touch urls.py
+runs
+pwd
+cd ..
+pwd
+cd..
+cd ..
+cd dev
+vagrant exit
+cd /home/vagrant/
+vagrant exit
+pwd
+cd blog
+cd ..
+cd blogapp
+mkdir templates
+cd templantes
+cd templates
+mkdir blog
+touch post_list.html
+ls
+rm post_list.html 
+ls
+cd blog
+touch post_list.html
+ls
+runs
+git status
+cd
+git status
+vagrant exit
+exit

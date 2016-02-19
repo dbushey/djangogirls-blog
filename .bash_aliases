@@ -1,1 +1,3 @@
-alias runs='python3 manage.py runserver [::]:8001'
+alias runs='python3 /home/vagrant/manage.py runserver [::]:8001'
+
+
