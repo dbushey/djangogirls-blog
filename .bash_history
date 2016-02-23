@@ -118,3 +118,27 @@ cd
 git status
 vagrant exit
 exit
+pwd
+cd blogapp
+ls
+cat templates
+cd templates
+ls
+cd blog
+ls
+cat post_list.html 
+runs
+source .bash_aliases
+cd ../..
+cd ..
+ls
+pwd
+python3 manage.py migrate
+source .bash_aliases
+runs
+python3 manage.py shell
+runs
+python manage.py shell
+python3 manage.py shell
+runs
+exit
