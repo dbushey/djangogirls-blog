@@ -142,3 +142,25 @@ python manage.py shell
 python3 manage.py shell
 runs
 exit
+runs
+python3 manage.py migrate
+source .bash_aliases 
+runs
+exit
+runs
+source .bash_aliases
+runs
+pwd
+exit
+source .bash_aliases
+runs
+exit
+source .bash_aliases
+exit
+source .bash_aliases
+runs
+exit
+runs
+source .bash_aliases 
+runs
+exit
